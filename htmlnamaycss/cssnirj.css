@@ -1,0 +1,13 @@
+nav {
+    font-style: Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: antiquewhite;
+    font-family: Oswald;
+}
+
+table {
+    table-layout:fixed;
+    width: 100%;
+}
