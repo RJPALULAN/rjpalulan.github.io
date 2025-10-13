@@ -1,0 +1,66 @@
+nav {
+    font-style: Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Oswald;
+    font-size: 30px;
+}
+
+header {
+    font-size: 50px;
+    background-color: aliceblue;
+}
+
+table {
+    table-layout:fixed;
+    width: 100%;
+    border-style: solid;
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    word-wrap: break-word;
+}
+
+.who {
+    margin: 10px;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    border-style: outset;
+    border-width: 15px;
+    border-color: rgb(139, 112, 169);
+    align-items: center;
+}
+
+.footer {
+    font-size: 30px;
+    background-color: rgb(68, 122, 192);
+    color: white;
+}
+
+h1.contact {
+    font-size: 20px;
+    color: white;
+}
+
+a:link {
+    color:rgb(126, 56, 176)
+}
+
+a:visited {
+    color: rgb(33, 33, 63);
+}
+
+a:active {
+    color: rgb(255, 56, 96);
+}
+
+a:hover {
+    color: rgb(255, 97, 129);
+}
